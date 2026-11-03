@@ -1,8 +1,8 @@
 # BectoBIT – TimeProvider w .NET 8: działający przykład
 
-[![CI](https://github.com/bectobit/timeprovider-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/bectobit/timeprovider-demo/actions/workflows/ci.yml)
+[![CI](https://github.com/BectoBIT/timeprovider-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/BectoBIT/timeprovider-demo/actions/workflows/ci.yml)
 
-Przykład do filmu „Czas też jest zależnością” na kanale [@BectoBIT](https://www.youtube.com/@BectoBIT). Pokazuje, jak wstrzyknąć czas zamiast `DateTime.UtcNow`
+Przykład do filmu [„Czas też jest zależnością”](https://youtu.be/V3mkU8Ut6sA) na kanale [@BectoBIT](https://www.youtube.com/@BectoBIT). Pokazuje, jak wstrzyknąć czas zamiast `DateTime.UtcNow`
 i jak w teście przesunąć go o 31 dni bez czekania.
 
 ```
