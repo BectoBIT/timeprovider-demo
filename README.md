@@ -1,10 +1,6 @@
 # BectoBIT – TimeProvider w .NET 8: działający przykład
 
-<<<<<<< HEAD
 [![CI](https://github.com/BectoBIT/timeprovider-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/BectoBIT/timeprovider-demo/actions/workflows/ci.yml)
-=======
-[![CI](https://github.com/BectoBIT/timeprovider-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/bectobit/timeprovider-demo/actions/workflows/ci.yml)
->>>>>>> c8d1c75940da8ca80892de7831a00682a6ceafea
 
 Przykład do filmu [„Czas też jest zależnością”](https://youtu.be/V3mkU8Ut6sA) na kanale [@BectoBIT](https://www.youtube.com/@BectoBIT). Pokazuje, jak wstrzyknąć czas zamiast `DateTime.UtcNow`
 i jak w teście przesunąć go o 31 dni bez czekania.
